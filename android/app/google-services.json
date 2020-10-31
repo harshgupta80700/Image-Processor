@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402668729531",
+    "firebase_url": "https://imageprocessor-bbc56.firebaseio.com",
+    "project_id": "imageprocessor-bbc56",
+    "storage_bucket": "imageprocessor-bbc56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402668729531:android:49eb1e9c086bb84fc1e59e",
+        "android_client_info": {
+          "package_name": "com.example.image_processor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402668729531-mnb750npme9d2gqacenbjgupt6obdijp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnt5JuBjPgr53iw_7w4V_S5x3MYKSjyPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402668729531-mnb750npme9d2gqacenbjgupt6obdijp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
